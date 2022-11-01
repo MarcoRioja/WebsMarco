@@ -1,0 +1,159 @@
+/* ---------------------------------------- */
+/* ------------------ CV ------------------ */
+/* ---------------------------------------- */
+
+#entrada{
+    border-style: solid;
+    border-radius: 10px;
+    background-color: gray;
+    text-align: center;
+}
+#act{
+    border-radius: 10px;
+    background-color: lightgray;
+    text-align: center;
+}
+#curr{
+    margin: 15px;
+    background-color: #3d7c98;
+    border-radius: 10px;
+    padding: 5px;
+}
+#first{
+    border-radius: 10px;
+    background-color: #73b0cd;
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+}
+#info1{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+#perfil{
+    border: solid;
+    display: inline-block;
+    border-radius: 10px;
+    min-width: 120px;
+    min-height: 150px;
+    max-width: 220px;
+    max-height: 250px;
+    scale: 90%;
+}
+h2{
+    display: inline-block;
+    margin-bottom: 0px;
+}
+#contac{
+    display: inline-block;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    margin: 5px;
+    padding-left: 25px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+}
+#Datos{
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+#Box1{
+    background-color: #a8dff1;
+    border-radius: 10px;
+    text-align: center;
+    width:50%;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+#Box2{
+    background-color: #a8dff1;
+    border-radius: 10px;
+    text-align: center;
+    width:50%;
+    margin: 5px;
+    padding: 5px;
+}
+#Box3{
+    background-color: #a8dff1;
+    border-radius: 10px;
+    text-align: center;
+    width:50%;
+    margin: 5px;
+    padding: 5px;
+}
+#backButton{
+    position: fixed;
+    bottom: 22px;
+    right: 30px;
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    min-width: 100px;
+    min-height: 50px;
+    width: 7vw;
+    height: 7vh;
+    border-radius: 10px;
+    background-color: lightcoral;
+}
+a{
+    text-decoration: none;
+}
+#Content{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#name{
+    background-color: beige;
+    border-radius: 5px;
+    height: 0%;
+    padding: 5px;
+    padding-bottom: 30px;
+}
+
+/* ---------------------------------------------- */
+/* ------------------- Index -------------------- */
+/* ---------------------------------------------- */
+
+#Link{
+    margin: 5px;
+    border-radius: 10px;
+    background-color: lightblue;
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#Head{
+    border: solid;
+    border-color: 5px;
+    background-color: gray;
+    border-radius: 10px;
+    text-align: center;
+}
+#Act{
+    background-color: lightgray;
+    text-align: center;
+    border-radius: 10px;
+}
+#CV{
+    text-decoration: none;
+    text-align: center;
+    padding: 5px;
+    min-width: 120px;
+    min-height: 50px;
+    width: 10vw;
+    height: 5vh;
+    border-radius: 10px;
+    background-color: lightcoral;
+}
